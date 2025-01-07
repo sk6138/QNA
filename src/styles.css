@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  cursor: pointer;
+  display: block-flex;
+  width: auto;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  background: #f7f6f6;
+  border: 2px solid black;
+}
+.main {
+  margin: 20px;
+  background: #dad7d7;
+  border: 10 px solid whitesmoke;
+}
